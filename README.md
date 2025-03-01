@@ -25,29 +25,6 @@ Welcome to the Painter Portfolio Website repository! This project is a **React.j
 - **React Router**: For handling navigation between different pages in the React app.
 - **CSS/SCSS**: For styling the website and ensuring a visually appealing design.
 - **Framer Motion**: For adding smooth animations and transitions to enhance user experience.
-- **Axios**: For handling API requests (if applicable).
-- **Git & GitHub**: For version control and collaboration.
-
-## Screenshots
-
-Here are some screenshots of the website:
-
-### Home Page
-
-
-| ![Home Page](![image](https://github.com/user-attachments/assets/b8c199cd-79bc-4c98-a0bd-bacba3f78e07)
-) | ) |
-### Gallery Page
-![Gallery Page](![image](https://github.com/user-attachments/assets/750ba901-2228-4be4-8365-69cb40545a83)
-)
-
-### About Page
-![About Page](![image](https://github.com/user-attachments/assets/70674b08-a005-49c2-9ce2-4989da393789)
-)
-
-### Contact Page
-![Contact Page](![image](https://github.com/user-attachments/assets/28aff2b9-d4c5-4f55-9421-e2f6d91b7db3)
-)
 
 
 ## Screenshots
