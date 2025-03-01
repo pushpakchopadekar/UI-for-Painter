@@ -32,7 +32,7 @@ Welcome to the Painter Portfolio Website repository! This project is a **React.j
 Here are some screenshots of the website:
 
 ### Home Page
-![Home Page]((https://github.com/user-attachments/assets/b8c199cd-79bc-4c98-a0bd-bacba3f78e07)
+![Home Page](https://github.com/user-attachments/assets/b8c199cd-79bc-4c98-a0bd-bacba3f78e07)
 
 ### Gallery Page
 ![Gallery Page](https://github.com/user-attachments/assets/750ba901-2228-4be4-8365-69cb40545a83)
